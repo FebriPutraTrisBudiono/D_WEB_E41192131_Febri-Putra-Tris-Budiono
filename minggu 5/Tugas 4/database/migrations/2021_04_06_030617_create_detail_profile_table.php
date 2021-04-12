@@ -21,6 +21,7 @@ class CreateDetailProfileTable extends Migration
             $table->string('foto');
             $table->timestamps();
         });
+        
     }
 
     /**
